@@ -12,12 +12,6 @@ The discriminative model learned basic image shapes effectively but struggled wi
 
 ---
 
-## Context
-
-This work was carried out as a **Computer Science project at Durham University**.
-
----
-
 ## Results
 
 ### Random samples (non-cherry-picked)
